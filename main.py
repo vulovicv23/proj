@@ -8,5 +8,9 @@ def main():
     print("Hello World!")
     print("Hello World!")
 
+def vule1():
+    print("asd")
+
 if __name__ == "__main__":
     main()
+ 
